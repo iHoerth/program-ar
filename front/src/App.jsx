@@ -10,17 +10,17 @@ const Container = styled.div`
   margin: 0;
 `
 
-const Wrapper = styled.div`
+// const Wrapper = styled.div`
   
-`
+// `
 
-const Header = styled.div`
+// const Header = styled.div`
   
-`
+// `
 
-const Body = styled.div`
+// const Body = styled.div`
   
-`
+// `
 
 const App = () => {
   return (
